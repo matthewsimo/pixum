@@ -1,0 +1,18 @@
+About:
+Quick little command line tool to create images in the directory you're in. Pulls down the image from the fantastic service http://lorempixum.com/ 
+
+Usage:
+"pixum width height name" 
+
+Example:
+you ~ $ pixum 600 400 pic1
+
+---
+
+Notes:
+I would have really liked to have this auto-copy it to your pasteboard, but apparently the pbcopy command doesn't handle images, and so - if I come up with a way for that later, I'll add it in. But don't hold your breath, this was a silly little experiment.
+
+Installation:
+Put the pixum script somewhere your bash profile PATH, otherwise you have to run this by referencing it's location in the actual command (i.e. "~/bin/pixum 600 400 pic1" - (assuming it's in a folder 'bin' at ~ )). If it's not letting your run it, do a "chmod 700 pixum"
+
+May the force be with you.
