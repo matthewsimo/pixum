@@ -1,0 +1,2 @@
+#! /bin/bash
+curl http://lorempixum.com/$1/$2/ -o $3.jpg
