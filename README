@@ -7,6 +7,8 @@ Usage:
 Example:
 you ~ $ pixum 600 400 pic1
 
+http://mas.im/6fpZ for reference
+
 ---
 
 Notes:
@@ -15,4 +17,4 @@ I would have really liked to have this auto-copy it to your pasteboard, but appa
 Installation:
 Put the pixum script somewhere your bash profile PATH, otherwise you have to run this by referencing it's location in the actual command (i.e. "~/bin/pixum 600 400 pic1" - (assuming it's in a folder 'bin' at ~ )). If it's not letting your run it, do a "chmod 700 pixum"
 
-May the force be with you.
+Use as you like, May the force be with you.
